@@ -1,0 +1,16 @@
+Here are the files at left: 
+
+1. index.html is the web page that chooses the script file to run. 
+2. script.js is where you build and test code. 
+3. done.js file is where you can paste code you've built. 
+4. other js files (varalertprompt.js, conditionals.js) are working code.
+5. style.css is something we're not up to  yet. 
+
+Don't leave code you write in script.js, because then all the code will keep running, and you only want to run the new code you make to test it.  After you have finished working with a kata, move that code to done.js - or delete it.
+
+Here is the correct order of practicing commands: 
+
+1. alert (showing something in a pop-up)
+2. var (mixing string text and variables in an alert)
+3. prompt (asking users for variable values and including those in an alert)
+3. conditionals (if/else if/else) - these have not been added yet. 
